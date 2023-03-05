@@ -1,5 +1,5 @@
-[!MasterHead](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=1060&t=st=1678032812~exp=1678033412~hmac=0252b1e39c8d75a279680fc013dd9cc43a84934101a64ab73536bbcc2ace96f4)
-<h1 align="center">Hi ??, I'm Satya</h1>
+
+<h1 align="center">Hi 👋, I'm Satya</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47zhk7hslm3lynoaqh13h0n4hn5bsx7loit8v3oylg&rid=giphy.gif&ct=g">
 
