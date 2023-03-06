@@ -1,4 +1,6 @@
-[![My Banner](https://cdn.dribbble.com/userupload/4147299/file/original-9aee744761efe15c30c6f92ac70a1bcb.jpg?compress=1&resize=752x))](https://github.com/Satyaranjan0101/)
+[![My Banner](https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png)](https://github.com/Satyaranjan0101/)
+
+
 <h1 align="center">Hi 👋, I'm Satya</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
