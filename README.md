@@ -1,5 +1,6 @@
 [![My Banner](https://cdn.dribbble.com/userupload/4147299/file/original-9aee744761efe15c30c6f92ac70a1bcb.jpg?compress=1&resize=752x))](https://github.com/Satyaranjan0101/)
-
+<h1 align="center">Hi 👋, I'm Satya</h1>
+<h3 align="center">A Passionate Backend Developer</h3>
 
 # 💫 About Me:
 👨🏻‍💻 I love to code and creating beautiful, Dynamic web applications<br>📚 Currently, I'm learning how to build and deploy serverless applications using AWS Lambda and API Gateway.<br>💬 Feel free to ask me anything related to web development, and I'll be happy to assist you<br>🔗 Don't wait, check out my portfolio now: 🌐 [Visit](https://skillstack.me/)
