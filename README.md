@@ -1,4 +1,4 @@
-[![My Banner](https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png)](https://github.com/Satyaranjan0101/)
+[![My Banner](https://cdn.dribbble.com/users/1787323/screenshots/6371250/attachments/1364181/lazy_programmer_dribbble-02.png)](https://github.com/Satyaranjan0101/)
 
 
 <h1 align="center">Hi 👋, I'm Satya</h1>
